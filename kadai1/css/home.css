@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+body {
+  background:linear-gradient(#FFFF,rgba(211, 208, 179, 0.863));
+  font-size: 95%;
+  font-family: "MS ゴシック",sans-serif;
+  line-height: 1.5;
+  color: #333333;
+}
+
+header{
+  margin-bottom: 5em;
+
+}
+/* margin-top: 0px; 
+margin-bottom: 0px;
+margin-right: 0px;
+margin-left: 0px;
+margin:0px 
+margin: 0; */
+
+#TOP {
+  color: rgba(22, 77, 228, 0.925);
+  background: linear-gradient(#FFFF,rgba(245, 6, 6, 0.733))
+}
+
+a:hover {
+  font-size: 2em;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: rgb(116, 158, 238);
+}
+
+
+
+
